@@ -1,6 +1,9 @@
 import streamlit as st
 
 st.title("Order")
+st.title("Saifulina Liliiiiiiaaaa")
+st.title("22000841")
+st.title("приятного")
 
 st.image("mcdonalds-menu.png", width=300)
 
